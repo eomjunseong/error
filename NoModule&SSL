@@ -1,0 +1,7 @@
+- 아나콘다 하위 폴더에서 "Library/bin" 경로 선택 
+- 네 가지 파일 복사
+  *libcrypto-1_1x64.dll
+  *libcrypto-1_1x64.pdb
+  *libssl-1_1x64.dll
+  *libssl-1_1x64.pdb
+ - 아나콘다 이하 "/DLLs/" 에 붙여 놓기 
